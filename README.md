@@ -34,13 +34,10 @@ Todo List is a simple web application that allows you to manage your tasks and s
 
 Contributions are welcome! If you find any bugs, have feature requests, or want to contribute to the project, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License] (LICENSE).
 
 ## Acknowledgments
 
 - The project was inspired by the need for a simple and efficient task management tool.
 - Book by | Simplified by Javascript for VIPS # By Ebenezer DON
 
-Feel free to customize the content and structure of the README to fit your specific project. 
+Feel free to customize the content and structure of the README to fit your specific project.
